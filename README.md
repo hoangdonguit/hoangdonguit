@@ -20,14 +20,15 @@
 ---
 
 ### 📂 Highlight Projects
+- 🤖 **Enterprise Network Automation (IaC):** Engineered an automated CI/CD pipeline using Ansible Roles to deploy OSPF routing, enforce operational state validation, and manage configurations for a Cisco IOS topology on GNS3. [View Repository](https://github.com/hoangdonguit/enterprise-network-automation)
 - ☁️ **Multi-node OpenStack Deployment:** Using **Kolla-Ansible** and configuring **Ceph** for high-availability storage.
 - 📊 **Network Performance Evaluation:** Analyzing throughput and latency using CAT8 Ethernet connectivity.
 - 🏆 **NET Challenge:** Participated in network infrastructure competitions.
-- 🤖 **Network Automation Lab:** Engineered an Ansible CI/CD pipeline to automate Cisco IOS configuration backups on GNS3, bypassing legacy SSH cryptographic constraints. [View Repository](https://github.com/hoangdonguit/network-automation-lab)
+
 ---
 
 ### 📈 GitHub Statistics
-![Hoàng Xuân Đồng's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangdonguit&show_icons=true&theme=radical&rank_icon=github)
+![Hoàng Xuân Đồng's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hoangdonguit&show_icons=true&theme=radical&rank_icon=github)
 
 ---
 
